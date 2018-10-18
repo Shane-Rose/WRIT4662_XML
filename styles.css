@@ -1,0 +1,63 @@
+name {
+  font-size: 150%;
+  color: #7a0019;
+  font-weight: bold;
+  display: block;
+  margin: 20px 0 5px 0;
+
+}
+length {
+  font-size: 100%;
+  color: black;
+  display: block;
+}
+
+length::before {content: attr(type) "Standard document length: "}
+
+difficulty {
+  font-size: 100%;
+  color: black;
+  display: block;
+}
+
+difficulty::before {content: attr(type) "Typical difficulty level: "}
+
+formality {
+  font-size: 100%;
+  color: black;
+  display: block;
+}
+
+formality::before {content: attr(type) "Formality level required: "}
+
+adherence {
+  font-size: 100%;
+  color: black;
+  display: block;
+}
+
+adherence::before {content: attr(type) "Need to follow a predefined standard: "}
+
+digitalConversion {
+  font-size: 100%;
+  color: black;
+  display: block;
+}
+
+digitalConversion::before {content: attr(type) "Digital conversion: "}
+
+legalImplication {
+  font-size: 100%;
+  color: black;
+  display: block;
+}
+
+legalImplication::before {content: attr(type) "Potential legal implications: "}
+
+exampleTitles {
+  font-size: 100%;
+  color: black;
+  display: block;
+}
+
+exampleTitles::before {content: attr(type) "Possible titles: "}

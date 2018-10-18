@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE Document SYSTEM "docType.dtd">
+<?xml-stylesheet type="text/css" href="styles.css"?>
+
+<Document>
+  <DocumentType>
+    <name>Letter</name>
+    <length>1 to 2 pages</length>
+    <difficulty>Less difficult</difficulty>
+    <formality>Fairly formal</formality>
+    <adherence>Generally good to adhere to industry guidelines</adherence>
+    <digitalConversion>Does not need to be digitally converted or stored</digitalConversion>
+    <legalImplication>Low legal implications</legalImplication>
+    <exampleTitles></exampleTitles>
+  </DocumentType>
+
+
+  <DocumentType>
+    <name>Business Solicitation Letter</name>
+    <length>1 to 2 pages</length>
+    <difficulty>Less difficult</difficulty>
+    <formality>Formal</formality>
+    <adherence>Generally good to adhere to industry guidelines</adherence>
+    <digitalConversion>Does not need to be digitally converted or stored</digitalConversion>
+    <legalImplication>Low legal implications</legalImplication>
+    <exampleTitles></exampleTitles>
+  </DocumentType>
+
+  <DocumentType>
+    <name>Memorandum</name>
+    <length>1 to 2 pages</length>
+    <difficulty>Less difficult</difficulty>
+    <formality>Less formal</formality>
+    <adherence>Beyond standard format, content can be diverse</adherence>
+    <digitalConversion>May need to be digitally converted</digitalConversion>
+    <legalImplication>Moderatelegal implications</legalImplication>
+    <exampleTitles>RE: New uniform policy, RE: Vacation policy amendment, RE: Client job site security</exampleTitles>
+  </DocumentType>
+
+  <DocumentType>
+    <name>Email</name>
+    <length>Short to moderate</length>
+    <difficulty>Less difficult</difficulty>
+    <formality>Informal to formal</formality>
+    <adherence>Generally good to adhere to industry guidelines</adherence>
+    <digitalConversion>Limited to digital environment</digitalConversion>
+    <legalImplication>Moderate legal implications</legalImplication>
+    <exampleTitles></exampleTitles>
+  </DocumentType>
+
+  <DocumentType>
+    <name>Proposals</name>
+    <length>Can be between 5 and hundreds of pages in length</length>
+    <difficulty>Fairly Difficult</difficulty>
+    <formality>Formal to very formal</formality>
+    <adherence>Must adhere to expected guidelines</adherence>
+    <digitalConversion>Generally is presented in or with a digital copy</digitalConversion>
+    <legalImplication>High legal implications</legalImplication>
+    <exampleTitles></exampleTitles>
+  </DocumentType>
+
+  <DocumentType>
+    <name>Presentations</name>
+    <length>Depends on situation</length>
+    <difficulty>Less difficult</difficulty>
+    <formality>Less formal to formal</formality>
+    <adherence>Generally good to adhere to industry guidelines</adherence>
+    <digitalConversion>Generally presented in digital format</digitalConversion>
+    <legalImplication>Low legal implications</legalImplication>
+    <exampleTitles></exampleTitles>
+  </DocumentType>
+
+  <DocumentType>
+    <name>Feasibility Studies</name>
+    <length>Can be between 5 and hundreds of pages in length</length>
+    <difficulty>Fairly Difficult</difficulty>
+    <formality>Formal to very formal</formality>
+    <adherence>Must adhere to industry guidelines</adherence>
+    <digitalConversion>Usually expected to be in digital format</digitalConversion>
+    <legalImplication>Very high legal implications</legalImplication>
+    <exampleTitles></exampleTitles>
+  </DocumentType>
+
+  <DocumentType>
+    <name>Change Order</name>
+    <length>Usually 1 or 2 pages</length>
+    <difficulty>Less difficult</difficulty>
+    <formality>Fairly formal</formality>
+    <adherence>Must adhere to industry guidelines</adherence>
+    <digitalConversion>Usually expected to be in digital and print format</digitalConversion>
+    <legalImplication>High legal implications</legalImplication>
+    <exampleTitles></exampleTitles>
+  </DocumentType>
+
+  <DocumentType>
+    <name>Request for Substitution</name>
+    <length>Usually 1 or 2 pages</length>
+    <difficulty>Less difficult</difficulty>
+    <formality>Fairly formal</formality>
+    <adherence>Must adhere to industry guidelines</adherence>
+    <digitalConversion>Usually expected to be in digital and print format</digitalConversion>
+    <legalImplication>High legal implications</legalImplication>
+    <exampleTitles></exampleTitles>
+  </DocumentType>
+
+  <DocumentType>
+    <name>Manual</name>
+    <length>Usually between 5 and 50 pages</length>
+    <difficulty>Difficult</difficulty>
+    <formality>Formal</formality>
+    <adherence>Must adhere to industry, legal, and ethical guidelines</adherence>
+    <digitalConversion>Usually expected to be in digital and print format</digitalConversion>
+    <legalImplication>High legal implications</legalImplication>
+    <exampleTitles></exampleTitles>
+  </DocumentType>
+</Document>
