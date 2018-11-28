@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
+<!ELEMENT Document ()>
 <!ELEMENT DocumentType (Name, length, difficulty, formality, adherence, digitalConversion?, legalImplication, exampleTitles+)>
-<!ELEMENT Name (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
 <!ELEMENT length (#PCDATA)>
 <!ELEMENT difficulty (#PCDATA)>
 <!ELEMENT formality (#PCDATA)>
